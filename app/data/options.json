@@ -1,6 +1,6 @@
 [
   { "id": 1, "label": "¡Ganaste un Premio!", "type": "prize" },
-  { "id": 2, "label": "Pregunta de Python", "type": "python_question" },
-  { "id": 3, "label": "Pregunta sobre Make / n8n", "type": "make_question" },
+  { "id": 2, "label": "Python", "type": "python_question" },
+  { "id": 3, "label": "Make / n8n", "type": "make_question" },
   { "id": 4, "label": "¡Inténtalo de nuevo!", "type": "none" }
 ]
