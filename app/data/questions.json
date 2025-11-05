@@ -1,0 +1,31 @@
+{
+  "python": [
+    { "question": "¿Qué es una lista por comprensión y para qué se utiliza?" },
+    { "question": "¿Cuál es la diferencia entre una lista y una tupla en Python?" },
+    { "question": "¿Qué representa la palabra clave 'self' en una clase de Python?" },
+    { "question": "¿Qué es un decorador en Python y para qué sirve?" },
+    { "question": "¿Qué diferencia hay entre los operadores 'is' y '=='?" },
+    { "question": "¿Qué hace la linea de código 'import this' en Python?" },
+    { "question": "¿Qué son los diccionarios y cómo se accede a sus valores?" },
+    { "question": "¿Qué es una función lambda y cuándo conviene usarla?" },
+    { "question": "¿Cuál es la diferencia entre 'append()' y 'extend()' en listas?" },
+    { "question": "¿Qué hace la palabra clave 'with' en el manejo de archivos?" },
+    { "question": "¿Qué son las excepciones y cómo se manejan con 'try' y 'except'?" },
+    { "question": "¿Qué diferencia hay entre una función y un método?" },
+    { "question": "¿Qué hace la función 'enumerate()' en un bucle?" },
+    { "question": "¿Qué son los generadores y cómo se crean con 'yield'?" },
+    { "question": "¿Qué es el tipado dinámico en Python y qué ventajas tiene?" }
+  ],
+  "make": [
+    { "question": "¿Qué es un escenario en Make (Integromat)?" },
+    { "question": "¿Qué función cumple un nodo disparador (trigger) en n8n?" },
+    { "question": "¿Qué es un flujo de automatización en n8n?" },
+    { "question": "¿Cómo se pueden encadenar módulos en Make?" },
+    { "question": "¿Qué diferencia hay entre un módulo de acción y uno de búsqueda?" },
+    { "question": "¿Qué es un webhook y cómo se utiliza en Make o n8n?" },
+    { "question": "¿Cómo se puede programar una ejecución periódica en n8n?" },
+    { "question": "¿Qué ventaja tiene usar variables y expresiones dinámicas en Make?" },
+    { "question": "¿Qué tipo de errores puede devolver un escenario en Make?" },
+    { "question": "¿Qué pasos seguirías para conectar una API REST a n8n?" }
+  ]
+}
