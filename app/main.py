@@ -43,4 +43,4 @@ def get_result(option_id: int):
     elif option["type"] == "make_question":
         return {"question": random.choice(QUESTIONS["make"])}
     else:
-        return {"message": "Try again!"}
+        return {"message": "Inténtalo de nuevo!"}
